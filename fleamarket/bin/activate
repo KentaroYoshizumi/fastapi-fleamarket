@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/kentaroyoshizumi/Desktop/FastAPI/fleamarket"
+VIRTUAL_ENV="/Users/kentaroyoshizumi/Desktop/fastapi-fleamarket-main/fleamarket"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
